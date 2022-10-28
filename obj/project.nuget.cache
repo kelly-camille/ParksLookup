@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NUCze7up5XbDtlRIifPme28kr8+aUVqYIxB8xE3PFJRpSRqoXG7skLHXf40J802lVc65oQNoYHo3fvqteWVagA==",
+  "dgSpecHash": "N242L52Y7FBKA0C6JUPm3DMw9kW74j4H8RM/RMHAObmeRwxygATI1tcCUH0/HBeghIKtpr/iCsH1Xj7QhYe6Dw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kelly\\OneDrive\\Desktop\\ParksLookup.Solution\\ParksLookup\\ParksLookup.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kelly\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\kelly\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0\\microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "C:\\Users\\kelly\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0\\microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0\\microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
